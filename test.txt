@@ -1,0 +1,3 @@
+USE travel_db;
+
+SELECT * FROM commute_data;

@@ -1,0 +1,41 @@
+Name,Age,Gender,Occupation,Location,Distance,Mode,Frequency,CommuteTime,CommuteDays,DailyCost,MonthlyCost,Satisfaction,Cleanliness,Safety,Accessibility,Environment,Switch,Apps,Payment,Impact,CommuteEffect
+Kaushik,23,Male,Student,Home,10,Bike,Rarely,15-30 minutes,5 Days,50-100,More than 3000,Satisfied,Neutral,Safe,Difficult,Important,Yes,None,Cash,Neutrally,Neutrally
+Nahi bataunga,24,Male,Student,PG,1000,Walking,Daily,15-30 minutes,4 Days,50-100,1000-2000,Neutral,Satisfied,Neutral,Easy,Important,Yes,Navigation apps,"Cash, UPI",Positively,Neutrally
+Shivani Kumari ,24,Female,Student,Home,9,Bus,Daily,30-60 minutes,6 Days,Less than 50,Less than 1000,Satisfied,Satisfied,Safe,Neutral,Important,Yes,None,Cash,Neutrally,Positively
+Nirjal Singh,22,Male,Student,PG,3,Bike,Daily,15-30 minutes,6 Days,100-200,More than 3000,Neutral,Very Dissatisfied,Very Unsafe,Very Easy,Not at all Important,Maybe,Ride-sharing apps,"Cash, Card, UPI, Any other Mobile app, Gpay",Negatively,Neutrally
+shruti tyagi,21,Female,Student,Hostel,1,Walking,Monthly,15-30 minutes,6 Days,none,Less than 1000,Neutral,Dissatisfied,Unsafe,Easy,Important,Yes,None,"Cash, UPI",Neutrally,Neutrally
+Nikhilesh KUmar Upadhyay,24,Male,Student,PG,4,Bike,Rarely,15-30 minutes,6 Days,50-100,1000-2000,Neutral,Very Dissatisfied,Neutral,Easy,Neutral,Yes,None,UPI,Very Positively,Negatively
+Prachi Gautam,22,Female,Student,Hostel,1,Walking,Monthly,Less than 15 minutes,Whole week,Less than 50,none,Neutral,Dissatisfied,Neutral,Easy,Important,No,Public transit apps,UPI,Neutrally,Neutrally
+Ram Krishna Pandey ,22,Male,Student,PG,2,Walking,Daily,Less than 15 minutes,5 Days,Less than 50,2000-3000,Neutral,Neutral,Neutral,Neutral,Important,Yes,Navigation apps,"Cash, UPI",Positively,Positively
+sweety kumari,22,Female,Student,PG,3,Walking,Daily,15-30 minutes,5 Days,Less than 50,1000-2000,Neutral,Neutral,Neutral,Neutral,Neutral,Maybe,Public transit apps,UPI,Very Positively,Neutrally
+Sheena,22,Female,Student,Home,17,Bus,Daily,15-30 minutes,5 Days,Less than 50,1000-2000,Neutral,Neutral,Unsafe,Difficult,Important,Yes,None,Cash,Negatively,Neutrally
+Himanshu singh,22,Male,Student,PG,2,Bike,Weekly,Less than 15 minutes,Whole week,Less than 50,Less than 1000,Dissatisfied,Dissatisfied,Unsafe,Difficult,Neutral,Yes,Ride-sharing apps,UPI,Very Positively,Very Positively
+Aman Verma ,24,Male,Student,Home,50,Bus,Daily,More than 60 minutes,6 Days,100-200,More than 3000,Dissatisfied,Neutral,Safe,Difficult,Important,Yes,None,"Cash, UPI",Neutrally,Negatively
+Smriti Kumari ,25,Female,Student,PG,10,Bus,Daily,30-60 minutes,Whole week,Less than 50,1000-2000,Neutral,Dissatisfied,Neutral,Neutral,Very Important,Maybe,None,Cash,Neutrally,Neutrally
+Shubham Bishnoi,18,Male,Student,Home,1,Train,Daily,Less than 15 minutes,Whole week,200-300,More than 3000,Very Satisfied,Very Satisfied,Very Safe,Very Easy,Very Important,Yes,Navigation apps,"Cash, Card, UPI, Any other Mobile app",Very Positively,Very Positively
+Akash Gautam ,24,Male,Student,PG,2,Bike,Monthly,15-30 minutes,4 Days,50-100,Less than 1000,Satisfied,Dissatisfied,Safe,Neutral,Very Important,Yes,Navigation apps,"Cash, UPI",Positively,Positively
+Haimanti ,19,Female,Student,PG,1,Walking,Rarely,Less than 15 minutes,6 Days,Less than 50,Less than 1000,Neutral,Neutral,Safe,Easy,Very Important,Yes,Public transit apps,Any other Mobile app,Positively,Positively
+Sumit ,23,Male,Student,PG,2,Bike,Daily,Less than 15 minutes,6 Days,Less than 50,1000-2000,Very Satisfied,Neutral,Safe,Easy,Important,Yes,None,"Cash, UPI",Positively,Positively
+Harnoor,24,Male,Student,Home,18,Bike,Rarely,15-30 minutes,5 Days,100-200,More than 3000,Dissatisfied,Neutral,Neutral,Neutral,Very Important,Yes,Navigation apps,"Cash, UPI",Neutrally,Neutrally
+Kuldeep Yadav ,24,Male,Student,PG,8,Bus,Daily,Less than 15 minutes,5 Days,Less than 50,Less than 1000,Satisfied,Neutral,Safe,Easy,Important,Yes,Navigation apps,Cash,Positively,Positively
+Pranav,22,Male,Student,PG,13,Bus,Daily,15-30 minutes,4 Days,none,More than 3000,Neutral,Very Dissatisfied,Unsafe,Easy,Neutral,Yes,Public transit apps,Presto in canada,Positively,Positively
+Vivek,23,Male,Private sector,Home,15,Train,Daily,30-60 minutes,5 Days,50-100,2000-3000,Very Satisfied,Very Satisfied,Very Safe,Very Easy,Very Important,Yes,None,Card,Very Positively,Very Positively
+Yash Arora,23,Male,Student,Hostel,1,Walking,Rarely,Less than 15 minutes,5 Days,Less than 50,Less than 1000,Satisfied,Neutral,Safe,Very Easy,Neutral,Maybe,Other,"Cash, UPI",Positively,Neutrally
+Khan Fardeen ,22,Male,Student,PG,3,Car,Daily,Less than 15 minutes,5 Days,Less than 50,1000-2000,Very Dissatisfied,Very Dissatisfied,Neutral,Very Easy,Very Important,Yes,None,UPI,Neutrally,Neutrally
+Vaibhavi niwding ,23,Female,Student,Home,1,Bike,Daily,15-30 minutes,Whole week,50-100,More than 3000,Dissatisfied,Very Dissatisfied,Neutral,Neutral,Important,Yes,Navigation apps,"Cash, UPI",Neutrally,Positively
+Clinto,27,Male,Student,Home,65,Train,Daily,30-60 minutes,4 Days,100-200,More than 3000,Neutral,Very Satisfied,Very Safe,Easy,Neutral,Maybe,Navigation apps,Card,Very Positively,Very Positively
+Abhijeet mandal ,23,other,Student,PG,5,Bike,Weekly,Less than 15 minutes,6 Days,Less than 50,1000-2000,Dissatisfied,Dissatisfied,Neutral,Easy,Very Important,Yes,Navigation apps,UPI,Very Positively,Very Positively
+Priya Ghosh ,22,Female,Student,Home,5,Bike,Rarely,15-30 minutes,Less than 3 Days,100-200,2000-3000,Neutral,Dissatisfied,Neutral,Difficult,Important,Yes,Ride-sharing apps,"Cash, Card, UPI",Negatively,Neutrally
+Bhai ki Cthu,69,Male,Unemployed,PG,69,Walking,Rarely,More than 60 minutes,Whole week,Less than 50,More than 3000,Very Dissatisfied,Very Satisfied,Very Safe,Very Easy,Very Important,No,Other,Cheque ,Very Positively,Very Negatively
+Aryan Malhotra ,23,Male,Student,Home,16,Bike,Weekly,30-60 minutes,6 Days,50-100,2000-3000,Satisfied,Neutral,Safe,Difficult,Important,Yes,None,Cash,Neutrally,Neutrally
+Yashvita Jaiswal ,25,Female,Student,PG,2,Bike,Daily,Less than 15 minutes,6 Days,Less than 50,1000-2000,Neutral,Neutral,Safe,Easy,Important,Yes,Navigation apps,"Cash, UPI",Neutrally,Positively
+Aamir,22,Male,Student,PG,0,Walking,Weekly,Less than 15 minutes,5 Days,none,Less than 1000,Dissatisfied,Dissatisfied,Neutral,Easy,Important,Yes,None,"Cash, UPI",Negatively,Neutrally
+Tushar Tyagi ,23,Male,Student,PG,2,Bike,Weekly,Less than 15 minutes,5 Days,Less than 50,1000-2000,Very Satisfied,Very Satisfied,Very Safe,Very Easy,Important,No,Public transit apps,UPI,Very Positively,Positively
+Priyanshi Mehta ,24,Female,Student,PG,8,Bus,Daily,15-30 minutes,5 Days,Less than 50,Less than 1000,Neutral,Neutral,Neutral,Easy,Important,Yes,None,UPI,Negatively,Negatively
+Ashutosh Pratap Singh,23,Male,Student,Home,7,Bus,Daily,15-30 minutes,6 Days,Less than 50,Less than 1000,Satisfied,Satisfied,Safe,Very Difficult,Very Important,Yes,None,Cash,Neutrally,Neutrally
+Samarth ,23,Male,Student,Hostel,0,Walking,Weekly,Less than 15 minutes,Less than 3 Days,Less than 50,Less than 1000,Very Satisfied,Very Satisfied,Very Safe,Very Easy,Very Important,Yes,Navigation apps,Cash,Very Positively,Very Positively
+Vishal arya,24,Male,Student,PG,2,Bus,Daily,15-30 minutes,6 Days,Less than 50,1000-2000,Satisfied,Satisfied,Safe,Easy,Important,Yes,Navigation apps,UPI,Positively,Positively
+Himanshi Singh ,22,Female,Student,PG,3,Bike,Daily,Less than 15 minutes,5 Days,Less than 50,1000-2000,Satisfied,Neutral,Neutral,Easy,Very Important,Yes,Navigation apps,UPI,Positively,Neutrally
+Sneha RJ ,22,Female,Student,PG,10,Bus,Daily,15-30 minutes,6 Days,Less than 50,Less than 1000,Neutral,Satisfied,Safe,Easy,Important,Maybe,None,Cash,Neutrally,Neutrally
+Simranjeet Kaur ,22,Female,Student,Hostel,1,Walking,Monthly,15-30 minutes,5 Days,none,Less than 1000,Neutral,Neutral,Safe,Easy,Important,Yes,Ride-sharing apps,Cash,Neutrally,Neutrally
+Priyanshu ,22,Male,Student,Home,10,Bus,Daily,15-30 minutes,Less than 3 Days,Less than 50,More than 3000,Dissatisfied,Neutral,Very Safe,Easy,Neutral,Yes,Public transit apps,Cash,Positively,Positively
